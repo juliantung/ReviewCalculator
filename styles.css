@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  h1 {
+    text-align: center;
+  }
+  .company-container {
+    margin-bottom: 20px;
+  }
+  .company-name {
+    font-weight: bold;
+  }
+  .review-count {
+    margin-right: 10px;
+  }
+  .total-pay {
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  
+  
+  
+  
